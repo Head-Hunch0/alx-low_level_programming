@@ -15,7 +15,7 @@ _putchar(nv + '0');
 return (nv);
 }
 else
-    {
+{
 nv = n % 10;
 _putchar(nv + '0');
 return (nv);
