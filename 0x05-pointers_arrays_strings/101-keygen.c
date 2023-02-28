@@ -15,7 +15,7 @@ int k = 0;
 time_t t;
 
 srand((unsigned int) time (&t));
-while {j < 2772)
+ while (j < 2772)
 {
 i = rand() % 128;
 if ((j + i) > 2772)
