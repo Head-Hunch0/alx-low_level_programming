@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * alloc_grid - a function that returns a pointer to 2 dimensiona * array of int
+ * alloc_grid - a function that returns a pointer to 2 dimensional array of int
  * @width: integer
  * @height: integer
  * Return: return a pointer to the array otherwise return NULL
